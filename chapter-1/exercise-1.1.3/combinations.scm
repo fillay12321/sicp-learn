@@ -1,0 +1,4 @@
+(define combinations (* (+ 2 (* 5 7))
+                          (* 3 4 5)))
+(newline)
+(display combinations)                          
